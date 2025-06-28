@@ -11,6 +11,6 @@ A console app that let's you to keep track of your task.
 | `reset` | Reset your chores list. |
 
 # ❔Usage
-```
+`
 chore [COMMAND] [ARGUMENT]
-```
+`
